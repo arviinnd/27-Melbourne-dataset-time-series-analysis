@@ -18,5 +18,5 @@ Thanks and regards, <br>
 Yours sincerely, <br>
 Narayanan Arvind <br>
 <br>
-Email: arvindn@gradvalley.in
+Email: arvindn@gradvalley.in <br>
 Fellow, GradValley Data Science 2018/19
